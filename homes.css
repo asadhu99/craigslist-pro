@@ -1,0 +1,15 @@
+#craig a {
+    font-family: fantasy;
+    font-size: 60px;;
+    text-decoration: none;
+    color: darkturquoise;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+#copyright {
+    background-color: lightgray;
+    padding: 10px;
+}

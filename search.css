@@ -1,0 +1,70 @@
+#craig a {
+    font-family: fantasy;
+    font-size: 60px;;
+    text-decoration: none;
+    color: f;
+    background-color: lightyellow;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#dvd {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+span {
+    text-align: center;
+    word-spacing: 0px;
+}
+
+#games {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#homes {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#antiques {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#music {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#fitness {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#events {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#equip {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#supply {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#vehicles {
+    text-align: center;
+    word-spacing: 250px;
+}
+
+#copyright {
+    background-color: lightgray;
+    padding: 10px;
+}
+

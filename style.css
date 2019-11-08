@@ -1,0 +1,67 @@
+body {
+  background-color: lightcyan;
+}
+
+p {
+  color: darkgoldenrod;
+}
+
+#bio {
+    color: salmon;
+}
+    
+#search {
+    color: indigo;
+    word-spacing: 80px;
+    border:1px solid deepskyblue;
+    width: 490px;
+    border-width: 30px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-width: 5px;
+    border-left-width: 30px;
+    border-right-width: 30px;
+    padding:5px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#search a {
+    color: indigo;
+}
+
+span {
+    word-spacing: 0;
+}
+
+a: default link {
+    text-decoration: inherit;
+}
+#craig a {
+    
+    font-family: fantasy;
+    font-size: 60px;
+    text-decoration: none;
+    color: white;
+    background-color: lightskyblue;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 48px;
+}
+
+#states {
+    text-align: left;
+    border: 1px solid black;
+    width: 130px;
+    margin-right: 990px;
+}
+
+#copyright {
+    background-color: lightgray;
+    padding: 10px;
+
+}
+
+
